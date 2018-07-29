@@ -7,7 +7,7 @@ export default class About extends Vue {
   render() {
     return (
       <div class="about">
-        <h1>This is an about page123</h1>
+        <h1>This is an about page</h1>
         <span>{this.name}</span>
       </div>
     );
